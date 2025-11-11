@@ -1,1 +1,1 @@
-# FantasyFootball
+# A program that takes the top tier of each position and combines optimal teams based from their points.
